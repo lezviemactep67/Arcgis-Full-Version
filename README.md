@@ -242,4 +242,4 @@ This repository serves as the official landing page for ArcGIS. The software is 
 **Get the most recent version of ArcGIS today!**
 
 ---
-**Last updated:** 2026-09-08 14:49:41 UTC
+**Last updated:** 2026-09-08 18:12:10 UTC
